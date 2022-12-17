@@ -1,0 +1,111 @@
+[
+
+    { 
+      "name": "My Hero Academia. ",
+      "season": "Spring",
+      "genre": "Romcom",
+      "rating": 5,
+      "totalWatchTime": 22,
+      "image": "images/myhero.png"
+    },
+
+    { 
+      "name": "Violet EverGarden.  ",
+      "season": "Spring",
+      "genre": "Action",
+      "rating": 2,
+      "totalWatchTime": 13,
+      "image": "images/violet.jpg"
+    },
+
+    { 
+      "name": "Chainsaw Man. ",
+      "season": "Spring",
+      "genre": "Action",
+      "rating": 3,
+      "totalWatchTime": 15,
+      "image": "images/chainsaw.jpg"
+    },
+
+    { 
+      "name": "To Your Eternity. ",
+      "season": "Spring",
+      "genre": "Romcom",
+      "rating": 4,
+      "totalWatchTime": 12,
+      "image": "images/eternity.jpg"
+    },
+
+    { 
+      "name": "Mob Psycho. ",
+      "season": "Spring",
+      "genre": "Action",
+      "rating": 1,
+      "totalWatchTime": 13,
+      "image": "images/mob.jpg"
+    },
+
+    { 
+      "name": "One Punch Man.  ",
+      "season": "Spring",
+      "genre": "Romcom",
+      "rating": 2,
+      "totalWatchTime": 15,
+      "image": "images/onepunch.png"
+    },
+
+    { 
+      "name": "Re:Zero.  ",
+      "season": "Summer",
+      "genre": "Action",
+      "rating": 3,
+      "totalWatchTime": 20,
+      "image": "images/rezero.jpg"
+    },
+
+    { 
+      "name": "Sound Euphonium.  ",
+      "season": "Summer",
+      "genre": "Romcom",
+      "rating": 4,
+      "totalWatchTime": 12,
+      "image": "images/sound.jpg"
+    },
+
+    { 
+      "name": "Death Note. ",
+      "season": "Summer",
+      "genre": "Romcom",
+      "rating": 5,
+      "totalWatchTime": 13,
+      "image": "images/deathnote.jpg"
+    },
+
+    { 
+      "name": "Akama Ga Kill.  ",
+      "season": "Summer",
+      "genre": "Action",
+      "rating": 2,
+      "totalWatchTime": 14,
+      "image": "images/akame.jpg"
+    },
+
+    { 
+      "name": "Dragon Ball.  ",
+      "season": "Summer",
+      "genre": "Romcom",
+      "rating": 4,
+      "totalWatchTime": 17,
+      "image": "images/dragonball.png"
+    },
+
+    { 
+      "name": "One Piece.  ",
+      "season": "Summer",
+      "genre": "Action",
+      "rating": 1,
+      "totalWatchTime": 50,
+      "image": "images/onepiece.jpg"
+    }
+
+]
